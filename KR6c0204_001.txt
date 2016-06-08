@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:41.999248
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 仁王護國般若經疏
 #+PROPERTY: CBETA_ID T33n1705
 #+PROPERTY: ID KR6c0204
@@ -13,7 +13,7 @@
 ¶
 No. 1705 [cf. No. 245]¶
 
-仁王護國般若經疏序¶
+* 仁王護國般若經疏序¶
 ¶
 朝請郎飛騎尉賜緋魚袋晁說之撰¶
 

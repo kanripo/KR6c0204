@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:41.669465
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:03
 #+TITLE: 仁王護國般若經疏
 #+PROPERTY: CBETA_ID T33n1705
 #+PROPERTY: ID KR6c0204
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 2
 ¶
 
- 仁王護國般若經疏卷第二¶
+ 
+*** 2仁王護國般若經疏卷第二¶
 天台智者大師說　門人灌頂記¶
 
 法假虛實觀下。次歎三假觀門。法假者。色陰¶
